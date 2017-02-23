@@ -1,0 +1,49 @@
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\Sinus.exe.config
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\OpenGL.Net.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.WPF.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\OpenGL.Net.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.SceneGraph.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.SceneGraph.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.WPF.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Release\SharpGL.WPF.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Squares.csprojResolveAssemblyReference.cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\MainWindow.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\App.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Sinus_MarkupCompile.cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Sinus_MarkupCompile.lref
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\MainWindow.baml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Sinus.g.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Sinus.Properties.Resources.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Squares.csproj.GenerateResource.Cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Release\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\Sinus.exe.config
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\MainWindow.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\App.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\Sinus_MarkupCompile.cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\Sinus_MarkupCompile.lref
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\OpenGL.Net.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.WPF.dll
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\OpenGL.Net.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.SceneGraph.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.SceneGraph.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.WPF.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\bin\Release\SharpGL.WPF.xml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\MainWindow.baml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\Sinus.g.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\Sinus.Properties.Resources.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus - Copy\Sinus\obj\Release\Squares.csproj.GenerateResource.Cache
