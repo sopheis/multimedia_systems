@@ -1,0 +1,14 @@
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Squares.csprojResolveAssemblyReference.cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\App.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.baml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.g.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Squares.csproj.GenerateResource.Cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.pdb
