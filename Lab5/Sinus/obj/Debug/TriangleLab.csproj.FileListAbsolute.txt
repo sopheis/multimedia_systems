@@ -1,0 +1,80 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.WPF.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.WPF.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\TriangleLab.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\TriangleLab.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\Sinus.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\Sinus.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\Sinus.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\SharpGL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\SharpGL.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\SharpGL.WPF.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\bin\Debug\SharpGL.WPF.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\TriangleLab.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\Sinus.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TriangleMoving\Sinus\obj\Debug\TriangleLab.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\Sinus.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\Sinus.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\Sinus.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\SharpGL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\SharpGL.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\SharpGL.WPF.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\bin\Debug\SharpGL.WPF.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\TriangleLab.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\Sinus.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Globe\Sinus\obj\Debug\TriangleLab.csproj.GenerateResource.Cache
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus.exe
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\Sinus.exe
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\Sinus.pdb
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\SharpGL.pdb
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\SharpGL.xml
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\SharpGL.WPF.pdb
+C:\Users\Advin\Downloads\Globe\Sinus\bin\Debug\SharpGL.WPF.xml
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\TriangleLab.csprojResolveAssemblyReference.cache
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\MainWindow.g.cs
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\App.g.cs
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\MainWindow.baml
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus.g.resources
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\TriangleLab.csproj.GenerateResource.Cache

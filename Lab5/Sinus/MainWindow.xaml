@@ -1,0 +1,17 @@
+﻿<Window x:Class="TriangleLab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gl="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF"
+        xmlns:local="clr-namespace:TriangleLab"
+        mc:Ignorable="d"
+        Title="Лабораторна робота №5" Height="390" Width="657.631">
+    <Grid Margin="0,0,0,0">
+        <gl:OpenGLControl x:Name="OpenGlControl"  Height="350" Width="500" DrawFPS="False" OpenGLDraw="OpenGLControl_OpenGLDraw" OpenGLInitialized="OpenGLControl_OpenGLInitialized" FrameRate="20" VerticalAlignment="Top" Margin="0, 0, 150,0"/>
+        <TextBox x:Name="textBoxSpeed" HorizontalAlignment="Left" Height="23" Margin="529,32,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="111"/>
+        <CheckBox x:Name="checkBoxMoving" Content="Рух" HorizontalAlignment="Left" Margin="505,10,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="505,33,0,0" TextWrapping="Wrap" Text="Шв: " VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
