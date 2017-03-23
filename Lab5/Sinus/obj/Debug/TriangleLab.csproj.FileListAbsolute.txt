@@ -78,3 +78,6 @@ C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\MainWindow.baml
 C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus.g.resources
 C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\Sinus.Properties.Resources.resources
 C:\Users\Advin\Downloads\Globe\Sinus\obj\Debug\TriangleLab.csproj.GenerateResource.Cache
+D:\Studying\III (II)\Програмування мультимедійних систем\multimedia_systems\Lab5\Sinus\bin\Debug\Sinus.exe.config
+D:\Studying\III (II)\Програмування мультимедійних систем\multimedia_systems\Lab5\Sinus\obj\Debug\Sinus.exe
+D:\Studying\III (II)\Програмування мультимедійних систем\multimedia_systems\Lab5\Sinus\obj\Debug\Sinus.pdb
