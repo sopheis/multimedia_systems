@@ -1,0 +1,75 @@
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\Apex.dll
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.dll
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.SceneGraph.dll
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.WPF.dll
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.xml
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.SceneGraph.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.SceneGraph.xml
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.WPF.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\bin\Debug\SharpGL.WPF.xml
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.g.cs
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\App.g.cs
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.baml
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.g.resources
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.exe
+c:\users\администратор\documents\visual studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus.exe
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\Sinus.exe
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\Sinus.pdb
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\SharpGL.pdb
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\SharpGL.xml
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\SharpGL.WPF.pdb
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\bin\Debug\SharpGL.WPF.xml
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus.g.resources
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+C:\Users\Администратор\Desktop\multim\Sinus\Sinus\obj\Debug\Sinus.csproj.GenerateResource.Cache
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\bin\Debug\Sinus.exe.config
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus.exe
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus.pdb
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\bin\Debug\Sinus.exe
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\bin\Debug\Sinus.pdb
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus.csprojResolveAssemblyReference.cache
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\MainWindow.g.cs
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\App.g.cs
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\MainWindow.baml
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus.g.resources
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+D:\3 курс 2 семестр\2 семестр\ПМС\Матеріали\multim\Sinus\Sinus\obj\Debug\Sinus.csproj.GenerateResource.Cache
+D:\university\6term\PMS\1 лабораторна Ільків\Sinus\Sinus\bin\Debug\Sinus.exe.config
+D:\university\6term\PMS\1 лабораторна Ільків\Sinus\Sinus\obj\Debug\Sinus.exe
+D:\university\6term\PMS\1 лабораторна Ільків\Sinus\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.exe
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\bin\Debug\Sinus.pdb
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.csprojResolveAssemblyReference.cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\App.g.cs
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.cache
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus_MarkupCompile.lref
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\MainWindow.baml
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.g.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.Properties.Resources.resources
+C:\Users\Advin\Documents\Visual Studio 2015\Projects\Sinus\Sinus\obj\Debug\Sinus.csproj.GenerateResource.Cache
